@@ -1,3 +1,5 @@
+// originally posted on my other account (EXFTB)
+
 let Enabled = true
 
 const oldFunction = Runner.instance_.gameOver
